@@ -1,0 +1,20 @@
+{
+  "name": "my-openai-app-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "install": "^0.13.0",
+    "npm": "^10.7.0",
+    "openai": "^4.40.2",
+    "serverless-http": "^3.2.0"
+  }
+}
